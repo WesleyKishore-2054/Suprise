@@ -444,6 +444,7 @@ export default function App() {
         </h1>
 
         {/* Polaroid */}
+        {/* /* hoping it works */ }
         <div style={{
           background:"#100E1C",
           padding:"12px 12px 50px",
